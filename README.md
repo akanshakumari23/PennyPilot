@@ -8,8 +8,7 @@ Take control of your finances with intelligent expense tracking, budget manageme
 🌐 **Try the Application Here**
 
 **Live Demo:**
-penny-pilot-psi.vercel.app
-
+https://penny-pilot-psi.vercel.app/
 
 # 🌟 Overview
 
